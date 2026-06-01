@@ -98,7 +98,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-Developed by Loukik
+Developed by Arshid Ahmad Malik
 
 ---
 
